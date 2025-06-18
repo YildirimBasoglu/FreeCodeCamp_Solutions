@@ -1,2 +1,0 @@
-# FreeCodeCamp_Solutions
-FreeCodeCamp 
